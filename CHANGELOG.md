@@ -1,7 +1,3 @@
-## 0.0.1
+## 1.0.0
 
-Iconsax !
-
-## 0.0.4
-
-Iconsax has live!
+* This is a complete update for the [iconsax](https://pub.dev/packages/iconsax) package, which is no longer under development.
