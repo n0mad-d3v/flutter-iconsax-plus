@@ -2134,8 +2134,8 @@ class IconsaxPlusBold {
   static const IconData milk =
       IconData(0xeb17, fontFamily: _fontFamily, fontPackage: _fontPkg);
 
-  /// ![](https://raw.githubusercontent.com/jb3rndt/flutter_iconsax/icon-preview/assets/icon-preview/bold/mini_music_sqaure.png)
-  static const IconData mini_music_sqaure =
+  /// ![](https://raw.githubusercontent.com/jb3rndt/flutter_iconsax/icon-preview/assets/icon-preview/bold/mini_music_square.png)
+  static const IconData mini_music_square =
       IconData(0xeb18, fontFamily: _fontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/jb3rndt/flutter_iconsax/icon-preview/assets/icon-preview/bold/minus.png)
@@ -2894,8 +2894,8 @@ class IconsaxPlusBold {
   static const IconData send_2 =
       IconData(0xebd7, fontFamily: _fontFamily, fontPackage: _fontPkg);
 
-  /// ![](https://raw.githubusercontent.com/jb3rndt/flutter_iconsax/icon-preview/assets/icon-preview/bold/send_sqaure_2.png)
-  static const IconData send_sqaure_2 =
+  /// ![](https://raw.githubusercontent.com/jb3rndt/flutter_iconsax/icon-preview/assets/icon-preview/bold/send_square_2.png)
+  static const IconData send_square_2 =
       IconData(0xebd8, fontFamily: _fontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/jb3rndt/flutter_iconsax/icon-preview/assets/icon-preview/bold/send_square.png)

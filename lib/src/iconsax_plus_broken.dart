@@ -2134,8 +2134,8 @@ class IconsaxPlusBroken {
   static const IconData milk =
       IconData(0xeb13, fontFamily: _fontFamily, fontPackage: _fontPkg);
 
-  /// ![](https://raw.githubusercontent.com/jb3rndt/flutter_iconsax/icon-preview/assets/icon-preview/broken/mini_music_sqaure.png)
-  static const IconData mini_music_sqaure =
+  /// ![](https://raw.githubusercontent.com/jb3rndt/flutter_iconsax/icon-preview/assets/icon-preview/broken/mini_music_square.png)
+  static const IconData mini_music_square =
       IconData(0xeb14, fontFamily: _fontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/jb3rndt/flutter_iconsax/icon-preview/assets/icon-preview/broken/minus.png)
@@ -2894,8 +2894,8 @@ class IconsaxPlusBroken {
   static const IconData send_2 =
       IconData(0xebd1, fontFamily: _fontFamily, fontPackage: _fontPkg);
 
-  /// ![](https://raw.githubusercontent.com/jb3rndt/flutter_iconsax/icon-preview/assets/icon-preview/broken/send_sqaure_2.png)
-  static const IconData send_sqaure_2 =
+  /// ![](https://raw.githubusercontent.com/jb3rndt/flutter_iconsax/icon-preview/assets/icon-preview/broken/send_square_2.png)
+  static const IconData send_square_2 =
       IconData(0xebd2, fontFamily: _fontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/jb3rndt/flutter_iconsax/icon-preview/assets/icon-preview/broken/send_square.png)
